@@ -14,6 +14,8 @@ Each folder is one importable package:
 
 ## Examples
 
-- [`4wp-drive-plugin-overview/`](4wp-drive-plugin-overview/) — test material: an overview of the 4WP Drive plugin's capabilities.
+- [`4wp-drive-plugin-overview/`](4wp-drive-plugin-overview/) — overview of the 4WP Drive plugin's capabilities.
+- [`4wp-advanced-code-overview/`](4wp-advanced-code-overview/) — overview of the 4WP Advanced Code plugin's capabilities.
+- [`4wp-notifications-overview/`](4wp-notifications-overview/) — overview of the 4WP Notifications plugin's capabilities.
 
-Sources: the [plugin page on WordPress.org](https://wordpress.org/plugins/4wp-drive/), the [4wpdev/4wp-drive repository](https://github.com/4wpdev/4wp-drive).
+All materials in this repository are English-only.
